@@ -1,0 +1,8 @@
+
+This is just an XSL stylesheet that translates Mapnik XML map files into a more
+readable HTML format.
+
+Call for instance like this:
+
+xsltproc mapnik-overview.xsl osm.xml >osm.html
+
